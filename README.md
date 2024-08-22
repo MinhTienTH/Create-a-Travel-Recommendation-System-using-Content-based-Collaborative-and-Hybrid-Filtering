@@ -1,6 +1,6 @@
 # Create-a-Travel-Recommendation-System-using-Content-based-Collaborative-and-Hybrid-Filtering
 
-# Summary of README.md
+# Summary
 
 ## Overview
 The Travel Recommendation System helps users easily find and book hotels, restaurants, and attractions. This report explains how we built and processed data for the Hotels, Restaurants, and Attractions datasets, using different recommendation methods like collaborative filtering, content-based filtering, and hybrid filtering.
